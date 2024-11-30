@@ -40,7 +40,7 @@ export default function FlashSale() {
         })}
       </div>
       <div className="bg-primary text-white w-60 h-14 rounded my-8 mx-auto text-center p-[18px] hover:cursor-pointer ">
-        <Link to="api-product" className="">
+        <Link to="Products" className="">
           View All Products
         </Link>
       </div>
